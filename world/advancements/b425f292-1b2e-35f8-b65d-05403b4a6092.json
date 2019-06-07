@@ -59,15 +59,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_brick": "2019-06-07 17:53:09 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2019-06-07 17:13:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-06-07 17:53:09 +0800"
     },
     "done": true
   },
@@ -153,6 +153,15 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2019-06-07 17:13:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-06-07 21:47:21 +0800",
+      "diamond_helmet": "2019-06-07 21:47:21 +0800",
+      "diamond_chestplate": "2019-06-07 21:47:21 +0800",
+      "diamond_boots": "2019-06-07 21:47:21 +0800"
     },
     "done": true
   },
@@ -262,6 +271,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-06-07 17:10:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-06-07 21:43:46 +0800"
     },
     "done": true
   },
@@ -578,10 +593,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2019-06-07 21:43:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2019-06-07 21:23:37 +0800",
       "wither_skeleton": "2019-06-07 17:58:16 +0800",
       "zombie_villager": "2019-06-07 14:07:22 +0800",
+      "magma_cube": "2019-06-07 21:22:26 +0800",
       "skeleton": "2019-06-07 14:07:29 +0800",
       "blaze": "2019-06-07 17:05:28 +0800",
       "zombie": "2019-06-07 14:07:24 +0800",
@@ -949,6 +972,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2019-06-07 14:05:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2019-06-07 21:23:20 +0800"
     },
     "done": true
   },

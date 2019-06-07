@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-07 20:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-06-06 01:24:31 +0800"
@@ -203,6 +209,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-06-07 20:42:35 +0800",
+      "diamond_helmet": "2019-06-07 20:42:35 +0800",
+      "diamond_chestplate": "2019-06-07 20:42:35 +0800",
+      "diamond_boots": "2019-06-07 20:42:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-07 20:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-06 01:16:55 +0800"
@@ -266,6 +287,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2019-06-06 00:07:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-06-08 00:13:26 +0800"
     },
     "done": true
   },
@@ -360,6 +387,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-06-06 23:49:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-06-07 21:30:04 +0800"
     },
     "done": true
   },
@@ -521,6 +554,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2019-06-07 23:44:33 +0800",
       "bred_sheep": "2019-06-07 00:16:48 +0800",
       "bred_cow": "2019-06-06 21:49:50 +0800",
       "bred_pig": "2019-06-07 00:14:46 +0800"
@@ -602,6 +636,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-06-06 03:27:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-07 20:44:52 +0800"
     },
     "done": true
   },
@@ -821,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2019-06-07 21:30:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-07 01:37:41 +0800"
@@ -852,6 +898,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-06-06 23:38:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-07 23:50:09 +0800"
     },
     "done": true
   },
@@ -1371,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2019-06-07 21:28:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-06-07 03:16:00 +0800"
@@ -1450,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-07 23:50:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2019-06-06 03:14:11 +0800"
@@ -1460,6 +1524,7 @@
     "criteria": {
       "forest": "2019-06-06 00:00:15 +0800",
       "beaches": "2019-06-06 00:15:14 +0800",
+      "extreme_hills_with_trees": "2019-06-07 20:25:57 +0800",
       "forest_hills": "2019-06-05 23:59:51 +0800",
       "plains": "2019-06-06 00:00:32 +0800",
       "taiga": "2019-06-06 00:10:04 +0800",
@@ -1497,6 +1562,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-06-07 02:59:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-06-07 23:51:28 +0800"
     },
     "done": true
   },
@@ -1590,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-06-07 20:41:58 +0800"
+    },
+    "done": true
+  },
   "flammpfeil.slashblade:wood": {
     "criteria": {
       "crafting": "2019-06-06 00:09:53 +0800"
@@ -1668,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-07 20:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-06-06 01:48:07 +0800"
@@ -1686,9 +1769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-06-07 20:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-07 01:37:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2019-06-07 20:41:58 +0800"
     },
     "done": true
   },
@@ -1743,6 +1838,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-06-06 00:31:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-07 23:50:09 +0800"
     },
     "done": true
   },
