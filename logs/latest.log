@@ -1,0 +1,287 @@
+[00:01:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc has made the advancement [Suit Up]
+[00:03:24] [Server thread/INFO] [journeymap]: Cookiccc joining dimension -1
+[00:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc tried to swim in lava
+[00:06:59] [Server thread/INFO] [journeymap]: Cookiccc joining dimension 0
+[00:07:18] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[00:07:19] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:08:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[00:08:16] [Server thread/INFO] [journeymap]: Cookiccc joining dimension -1
+[00:08:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Cookiccc moved too quickly! -152.74088232025088,15.0,-277.0633532397721
+[00:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [Enchanter]
+[00:15:31] [Server thread/INFO] [journeymap]: Cookiccc joining dimension 0
+[00:15:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:33:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: thunderning moved wrongly!
+[00:51:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: thunderning moved wrongly!
+[00:55:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[00:55:58] [Server thread/INFO] [journeymap]: Cookiccc joining dimension -1
+[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shui jiao?
+[01:00:26] [Server thread/INFO] [journeymap]: Cookiccc joining dimension 0
+[01:00:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shuo
+[01:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo zai zhu juan
+[01:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> tingbuqing
+[01:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shenme zhong bu liao
+[01:05:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[01:05:53] [Server thread/INFO] [journeymap]: Cookiccc joining dimension -1
+[01:05:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Cookiccc moved too quickly! -153.051404526469,15.0,-276.71756822740207
+[01:06:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yuan ban bu xu yao
+[01:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> hai mei kai shi
+[01:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ni xian sui bian fang
+[01:09:56] [Server thread/INFO] [journeymap]: daizewei joining dimension -1
+[01:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo ye bu zhi dao
+[01:15:14] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[01:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [Hot Stuff]
+[01:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yanjiang
+[01:18:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> zhuang yanjiu jiu you zhe ge cheng jiu
+[01:21:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> bu zhi dao
+[01:25:31] [Server thread/INFO] [journeymap]: Cookiccc joining dimension 0
+[01:25:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cookiccc lost connection: Timed out
+[01:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc left the game
+[01:26:02] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:26:02] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[01:26:02] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[01:26:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:26:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Cookiccc[/218.197.153.65:63294] logged in with entity id 290954 at (161.73103335930443, 68.0, 307.5)
+[01:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc joined the game
+[01:26:02] [Server thread/INFO] [journeymap]: Cookiccc joining dimension 0
+[01:26:02] [Server thread/INFO] [journeymap]: Sending log in packet.
+[01:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> en
+[01:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> baochi ju li
+[01:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> en
+[01:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> mo nang
+[01:35:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:35:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[01:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> jin zuo de dongxi
+[01:45:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shaole jiu shi jin li
+[01:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> lian yao yong
+[01:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ma
+[01:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yang tuo
+[01:51:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ni yong ba
+[01:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> keyi
+[01:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yong zuanshi xiu
+[02:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wan xing
+[02:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> bang ni tian yi xai
+[02:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> sheng yin ye tai zhen shi le
+[02:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ji qi
+[02:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> keyi
+[02:27:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> xia kuang qu qu
+[02:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> .
+[02:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ke yi zuo bei bao
+[02:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> fang zai fu shou
+[02:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> huan wo
+[02:35:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> xian bu gou
+[02:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> zhi neng zai zuo yi ge
+[02:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shui jiao
+[02:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc has made the advancement [Hot Stuff]
+[02:52:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[02:53:00] [Server thread/INFO] [journeymap]: daizewei joining dimension -1
+[02:53:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: daizewei moved too quickly! -152.67905746936975,15.0,-276.9418825334712
+[02:56:53] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=extractor] (te Extractor) at dim 0: 196/71/310.
+[02:58:11] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 196/71/308.
+[02:58:20] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 196/71/308.
+[02:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [A Terrible Fortress]
+[03:04:02] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[03:04:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:04:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> zhao dao yao sai le
+[03:05:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[03:05:28] [Server thread/INFO] [journeymap]: daizewei joining dimension -1
+[03:05:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: daizewei moved too quickly! -152.1754222970212,15.0,-277.03152098192106
+[03:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [Take Aim]
+[03:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thunderning has made the advancement [Isn't It Iron Pick]
+[03:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [Into Fire]
+[03:18:36] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[03:18:37] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> huo yao zuo
+[03:22:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> guai wu diao luo
+[03:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thunderning has made the advancement [Diamonds!]
+[03:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei has made the advancement [Blade for slash]
+[03:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wa sha li
+[03:34:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo qu nong dian
+[03:39:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> fang guai wu diao luo le
+[03:46:36] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=extractor] (te Extractor) at dim 0: 196/71/310.
+[03:48:21] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=macerator] (te Macerator) at dim 0: 196/71/310.
+[03:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> xia qu da
+[03:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> hai you yige yao zuo ranliao
+[03:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ni yao yong ye xing
+[03:51:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> lie yan bang
+[03:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> zai di xai shi
+[03:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> na li you ji
+[03:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo yao yu mao
+[03:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shaole
+[03:53:44] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=extractor] (te Extractor) at dim 0: 196/71/310.
+[03:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc has made the advancement [Cover Me With Diamonds]
+[03:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> lie yan bang ke yi zuo wo zhe ba dao
+[03:54:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> di xai shi
+[03:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc has made the advancement [Into Fire]
+[03:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> mei you
+[03:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc has made the advancement [Blade for slash]
+[04:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yao hun
+[04:00:10] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=macerator] (te Macerator) at dim 0: 196/71/310.
+[04:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> zhe ge shu xing shi sheng ji yaoqiu
+[04:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> keyi shaguai dedao
+[04:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> ye keyi yong yao hui zhijie jia
+[04:03:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: thunderning moved wrongly!
+[04:04:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[04:04:44] [Server thread/INFO] [journeymap]: Cookiccc joining dimension -1
+[04:04:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Cookiccc moved too quickly! -152.23631019548935,15.0,-276.8632301427542
+[04:05:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cookiccc lost connection: Timed out
+[04:05:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cookiccc left the game
+[04:05:02] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:05:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> shui jiao?
+[04:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> na wo ye liu le
+[04:06:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: daizewei lost connection: Disconnected
+[04:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei left the game
+[04:18:31] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 196/71/308.
+[04:18:35] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: 196/71/312.
+[04:25:43] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 196/71/309.
+[04:26:18] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=generator_active] (te Generator) at dim 0: 269/68/365.
+[04:27:13] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 269/68/365.
+[04:27:27] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 269/68/365.
+[04:50:27] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: 269/68/366.
+[04:51:09] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=batbox] (te ElectricBatBox) at dim 0: 269/68/365.
+[04:51:11] [Server thread/INFO] [ic2.PlayerActivity]: Player thunderning/2ae94801-9476-330d-ba8c-f074567750a7 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 269/68/364.
+[05:00:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thunderning lost connection: Disconnected
+[05:00:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thunderning left the game
+[13:50:22] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[13:50:22] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,sky_orchards@0.0.12,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[13:50:22] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[13:50:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:50:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DEPPDARK[/223.11.137.49:31592] logged in with entity id 650679 at (197.84091365594625, 72.5625, 325.19120692484074)
+[13:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK joined the game
+[13:50:23] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[13:50:23] [Server thread/INFO] [journeymap]: Sending log in packet.
+[14:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Sharpness-White-]
+[14:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Diamonds!]
+[14:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK was shot by Skeleton
+[14:06:55] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[14:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Broken-White-]
+[14:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK was slain by Enderman
+[14:07:49] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Stone Age]
+[14:24:33] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[14:24:33] [Server thread/INFO] [twilightforest]: NAGA_COURTYARD @ chunk 16 16
+[14:24:33] [Server thread/INFO] [twilightforest]: LICH_TOWER @ chunk 0 14
+[14:24:35] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 7
+[14:24:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2337ms behind, skipping 46 tick(s)
+[14:24:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! 4.010320339826535,-32.0,2.018214875309525
+[14:24:35] [Server thread/INFO] [twilightforest]: YETI_CAVE @ chunk 16 30
+[14:24:44] [Server thread/INFO] [twilightforest]: NAGA_COURTYARD @ chunk 17 3
+[14:24:45] [Server thread/INFO] [twilightforest]: MEDIUM_HILL @ chunk 2 34
+[14:24:55] [Server thread/INFO] [twilightforest]: LICH_TOWER @ chunk 0 0
+[14:25:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13351ms behind, skipping 267 tick(s)
+[14:25:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2244ms behind, skipping 44 tick(s)
+[14:28:21] [Server thread/INFO] [twilightforest]: SMALL_HILL @ chunk 33 14
+[14:28:23] [Server thread/INFO] [twilightforest]: NAGA_COURTYARD @ chunk 33 -1
+[14:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [The Silence of the Forest]
+[14:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has reached the goal [Time To Even The Scales]
+[14:32:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2439ms behind, skipping 48 tick(s)
+[14:33:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3317ms behind, skipping 66 tick(s)
+[14:34:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2179ms behind, skipping 43 tick(s)
+[14:34:52] [Server thread/INFO] [twilightforest]: NAGA_COURTYARD @ chunk -16 0
+[14:35:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4236ms behind, skipping 84 tick(s)
+[14:39:56] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[14:39:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! -8.004238990299683,32.0,-2.164598107603979
+[14:40:11] [Server thread/INFO] [FML]: Unloading dimension 7
+[14:43:40] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[14:43:56] [Server thread/INFO] [FML]: Unloading dimension 7
+[14:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Suit Up]
+[14:53:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Enchanter]
+[14:55:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK lost connection: Disconnected
+[14:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK left the game
+[16:47:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[16:47:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,sky_orchards@0.0.12,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[16:47:37] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[16:47:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:47:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DEPPDARK[/223.11.137.49:32280] logged in with entity id 717868 at (201.3403269033374, 72.0, 334.9031676976304)
+[16:47:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK joined the game
+[16:47:38] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[16:47:38] [Server thread/INFO] [journeymap]: Sending log in packet.
+[16:49:23] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:49:23] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,betterhud@1.4,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[16:49:23] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[16:49:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:49:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: daizewei[/218.197.153.213:60464] logged in with entity id 719800 at (200.14116809070418, 68.0, 321.8308152030185)
+[16:49:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei joined the game
+[16:49:24] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[16:49:24] [Server thread/INFO] [journeymap]: Sending log in packet.
+[16:49:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: daizewei lost connection: Disconnected
+[16:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei left the game
+[16:49:58] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:49:58] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,betterhud@1.4,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[16:49:58] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[16:49:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:49:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: daizewei[/218.197.153.213:60501] logged in with entity id 720639 at (200.14116809070418, 68.0, 321.8308152030185)
+[16:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei joined the game
+[16:49:59] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[16:49:59] [Server thread/INFO] [journeymap]: Sending log in packet.
+[16:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> you ren shui jiao
+[16:50:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yi hui wo jin yu yin
+[16:51:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> shui bu liao
+[16:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> yi zhi you guai wu
+[16:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> bie ba jia zha le
+[16:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> shua le wu zhi ku li pa \
+[16:59:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> en
+[16:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> qu xia jie shua deng ji ma
+[17:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yi hui ba
+[17:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo chi le fan zai wan
+[17:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> wo zai kan ba dao jian
+[17:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> 6dian lai
+[17:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> w zhun bei qu xia jie da ji ge lie yan bang qu
+[17:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> wu qi dou shun huai le
+[17:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> yao sai wo yijing zhao daole
+[17:01:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> chumen zuozhuan shuizhe huo ba
+[17:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> laingge lieyanren laolong
+[17:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> en wo qu kan kan
+[17:01:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[17:01:44] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension -1
+[17:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [We Need to Go Deeper]
+[17:01:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! -151.94285454037782,15.0,-277.13482059971267
+[17:01:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> 2ge lie yanren laolong
+[17:02:44] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[17:02:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> bai bai
+[17:03:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[17:03:58] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension -1
+[17:03:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! -151.81532528355166,15.0,-276.9237503596602
+[17:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEPPDARK> 88
+[17:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <daizewei> chi fan le jiu lai
+[17:04:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: daizewei lost connection: Disconnected
+[17:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei left the game
+[17:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [A Terrible Fortress]
+[17:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Into Fire]
+[17:06:54] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[17:06:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:06:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! 151.8283784646532,-15.0,276.9811677821996
+[17:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK has made the advancement [Blade for slash]
+[17:35:38] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[17:35:38] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,FML@8.0.99.99,inventorytweaks@1.64+dev.146.2180b27,baubles@1.5.2,jei@4.15.0.280,betterhud@1.4,forge@14.23.5.2838,reap@1.5.2,ic2@2.8.158-ex112,twilightforest@3.8.689,flammpfeil.slashblade@mc1.12-r24,mcp@9.42,forestry@5.8.2.387,journeymap@1.12.2-5.5.4,orecanes@1.3.0
+[17:35:38] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[17:35:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:35:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: daizewei[/218.197.153.213:60746] logged in with entity id 769444 at (203.75367641732782, 68.0, 322.2095904517183)
+[17:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei joined the game
+[17:35:39] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[17:35:39] [Server thread/INFO] [journeymap]: Sending log in packet.
+[17:42:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1aca183e)
+[17:42:51] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension -1
+[17:42:54] [Server thread/INFO] [journeymap]: daizewei joining dimension -1
+[17:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei was fireballed by Blaze
+[17:53:10] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[17:53:34] [Server thread/INFO] [journeymap]: daizewei joining dimension -1
+[18:07:13] [Server thread/INFO] [journeymap]: DEPPDARK joining dimension 0
+[18:07:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK moved too quickly! 151.98332886575702,-15.0,276.5451586990044
+[18:07:15] [Server thread/INFO] [journeymap]: daizewei joining dimension 0
+[18:07:16] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:07:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DEPPDARK lost connection: Timed out
+[18:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEPPDARK left the game
+[18:08:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: daizewei lost connection: Disconnected
+[18:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: daizewei left the game
+[18:12:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:12:07] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:12:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:12:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:12:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
